@@ -20,6 +20,8 @@ Projekt został zrealizowany przy użyciu:
 - HTML
 - CSS
 - JavaScript
+- Spring Boot
+- MySQL
 
 ## Uruchomienie
 
